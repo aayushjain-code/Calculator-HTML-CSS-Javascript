@@ -10,8 +10,7 @@ It gives the user a GUI(graphical user interface), where they can choose 2 diffe
  **HTML ,** **CSS ,** **JS**
 
 # Live Site
-
-Calculator here: [LINK]([https://aayushjain-code.github.io/Calculator-HTML-CSS-Javascript/](https://aayushjain-code.github.io/Calculator-HTML-CSS-Javascript/))
+https://aayushjain-code.github.io/Calculator-HTML-CSS-Javascript/
 
 # Screenshot
 
